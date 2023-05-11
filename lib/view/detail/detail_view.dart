@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 import 'package:ny_times/utils/common.dart';
 
-import '../utils/urls.dart';
+import '../../utils/urls.dart';
 
 class DetailView extends StatelessWidget {
   final String? url;

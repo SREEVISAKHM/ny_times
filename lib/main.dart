@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:ny_times/utils/colors.dart';
-import 'package:ny_times/view/home.dart';
+import 'package:ny_times/view/home/home.dart';
 
 void main() async {
   await dotenv.load();
